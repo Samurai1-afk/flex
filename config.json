@@ -1,0 +1,10 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "accessToken": "ACESSTOKEN_MERCADOPAGO",
+    "mongo_url": "MONGODB_URL",
+    "color": "COR_EMBEDS",
+    "author": "IMAGEM_EMBEDS",
+    "owner": "OWNERBOT_ID"
+  }
+  
